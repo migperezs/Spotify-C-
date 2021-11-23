@@ -1,0 +1,42 @@
+C:\Users\MyDam\source\repos\Spotify\Spotify\bin\Debug\Spotify.exe.config
+C:\Users\MyDam\source\repos\Spotify\Spotify\bin\Debug\Spotify.exe
+C:\Users\MyDam\source\repos\Spotify\Spotify\bin\Debug\Spotify.pdb
+C:\Users\MyDam\source\repos\Spotify\Spotify\obj\Debug\MainWindow.g.cs
+C:\Users\MyDam\source\repos\Spotify\Spotify\obj\Debug\App.g.cs
+C:\Users\MyDam\source\repos\Spotify\Spotify\obj\Debug\Spotify_MarkupCompile.cache
+C:\Users\MyDam\source\repos\Spotify\Spotify\obj\Debug\Spotify_MarkupCompile.lref
+C:\Users\MyDam\source\repos\Spotify\Spotify\obj\Debug\MainWindow.baml
+C:\Users\MyDam\source\repos\Spotify\Spotify\obj\Debug\Spotify.g.resources
+C:\Users\MyDam\source\repos\Spotify\Spotify\obj\Debug\Spotify.Properties.Resources.resources
+C:\Users\MyDam\source\repos\Spotify\Spotify\obj\Debug\Spotify.csproj.GenerateResource.cache
+C:\Users\MyDam\source\repos\Spotify\Spotify\obj\Debug\Spotify.csproj.CoreCompileInputs.cache
+C:\Users\MyDam\source\repos\Spotify\Spotify\obj\Debug\Spotify.exe
+C:\Users\MyDam\source\repos\Spotify\Spotify\obj\Debug\Spotify.pdb
+C:\Users\MyDam\source\repos\Spotify\Spotify\obj\Debug\Canciones.g.cs
+C:\Users\MyDam\source\repos\Spotify\Spotify\obj\Debug\Canciones.baml
+E:\visual studio\Spotify\Spotify\bin\Debug\Spotify.exe.config
+E:\visual studio\Spotify\Spotify\obj\Debug\Spotify.exe
+E:\visual studio\Spotify\Spotify\obj\Debug\Spotify.pdb
+E:\visual studio\Spotify\Spotify\bin\Debug\Spotify.exe
+E:\visual studio\Spotify\Spotify\bin\Debug\Spotify.pdb
+E:\visual studio\Spotify\Spotify\obj\Debug\Spotify.csprojResolveAssemblyReference.cache
+E:\visual studio\Spotify\Spotify\obj\Debug\Canciones.g.cs
+E:\visual studio\Spotify\Spotify\obj\Debug\MainWindow.g.cs
+E:\visual studio\Spotify\Spotify\obj\Debug\App.g.cs
+E:\visual studio\Spotify\Spotify\obj\Debug\Spotify_MarkupCompile.cache
+E:\visual studio\Spotify\Spotify\obj\Debug\Spotify_MarkupCompile.lref
+E:\visual studio\Spotify\Spotify\obj\Debug\Canciones.baml
+E:\visual studio\Spotify\Spotify\obj\Debug\MainWindow.baml
+E:\visual studio\Spotify\Spotify\obj\Debug\Spotify.g.resources
+E:\visual studio\Spotify\Spotify\obj\Debug\Spotify.Properties.Resources.resources
+E:\visual studio\Spotify\Spotify\obj\Debug\Spotify.csproj.GenerateResource.Cache
+C:\Users\MyDam\source\repos\Spotify\Spotify\obj\Debug\Playlist.g.cs
+C:\Users\MyDam\source\repos\Spotify\Spotify\obj\Debug\Playlist.baml
+C:\Users\MyDam\source\repos\Spotify\Spotify\obj\Debug\AgregarPlaylist.g.cs
+C:\Users\MyDam\source\repos\Spotify\Spotify\obj\Debug\AgregarPlaylist.baml
+C:\Users\MyDam\source\repos\Spotify\Spotify\obj\Debug\Cuenta.g.cs
+C:\Users\MyDam\source\repos\Spotify\Spotify\obj\Debug\Cuenta.baml
+C:\Users\MyDam\source\repos\Spotify\Spotify\obj\Debug\Spotify_Content.g.cs
+C:\Users\MyDam\source\repos\Spotify\Spotify\obj\Debug\GestionPlaylist.g.cs
+C:\Users\MyDam\source\repos\Spotify\Spotify\obj\Debug\GestionPlaylist.baml
+C:\Users\MyDam\source\repos\Spotify\Spotify\obj\Debug\Spotify.csprojAssemblyReference.cache

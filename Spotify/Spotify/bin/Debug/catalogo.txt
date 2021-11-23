@@ -1,0 +1,5 @@
+1;Metallica;Reload;Low man’s lyric
+2;Metallica;Black Album;My friend of misery
+3;Oasis;What’s the story;Wonderwall
+4;Nirvana;Unplugged in New York;The man who sold the world
+5;Nirvana; Unplugged in New York;Where did you sleep last night
